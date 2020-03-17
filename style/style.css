@@ -1,5 +1,5 @@
 body{
-  background-image: url(img/borobudur.jpg);
+  background-image: url(../img/borobudur.jpg);
   background-size: cover;
   background-attachment:scrool;
 
@@ -7,7 +7,7 @@ body{
  .justify{
   width: 700px;
   height:500px;
-  background: url(img/avocado.jpg);
+  background: url(../img/avocado.jpg);
   color: blue;
   text-align: center;
   border: solid 2px red;
@@ -16,7 +16,7 @@ body{
 .repeat{
   width: 700px;
   height:500px;
-  background: url(img/avocado.jpg);
+  background: url(../img/avocado.jpg);
   border: solid 2px red;
   background-size: 35% 35%;
   background-repeat:repeat-x;
