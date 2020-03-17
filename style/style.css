@@ -1,0 +1,24 @@
+body{
+  background-image: url(img/borobudur.jpg);
+  background-size: cover;
+  background-attachment:scrool;
+
+}
+ .justify{
+  width: 700px;
+  height:500px;
+  background: url(img/avocado.jpg);
+  color: blue;
+  text-align: center;
+  border: solid 2px red;
+  margin: 0 auto;
+}
+.repeat{
+  width: 700px;
+  height:500px;
+  background: url(img/avocado.jpg);
+  border: solid 2px red;
+  background-size: 35% 35%;
+  background-repeat:repeat-x;
+  margin: 0 auto;
+}
